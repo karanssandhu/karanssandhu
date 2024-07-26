@@ -17,9 +17,6 @@
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Meme For You
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=karanssandhu&icon=2&color=7)](https://visitcount.itsvg.in)
 
